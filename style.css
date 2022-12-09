@@ -1,0 +1,25 @@
+.Datos{
+    background-color: rgb(166, 211, 235);   /* Agregamos color de fondo */
+    font-family: 'Times New Roman', Times, serif;     /* Cambio de fuente a times new roman */
+    text-align: center;     /* Se centra el texto */
+    font-size: 20px;
+    
+}
+
+.Tabla{
+    display: flex;      /* Se centra la tabla */
+    justify-content: center;
+    height: 150px;
+       
+}
+
+.Titulo {               /* Cambio de color al titulo */
+    background-color: rgb(236, 8, 8);
+    
+}
+
+
+input{
+    font: size 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
